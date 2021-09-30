@@ -4,7 +4,6 @@ Price prediction on the Ames housing [dataset from Kaggle](https://www.kaggle.co
 
 # Table of Contents
 1. **Data Perparation:** `00_DataPrep.ipynb`
-    1. Preprocessor class
 
 2. **Exploratory Data Analysis:** `01_EDA.ipynb` 
 
